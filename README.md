@@ -1,1 +1,1 @@
-# tfds-2026
+# Trends in Financial Data Science (Fall 2026)
